@@ -2,3 +2,7 @@ soyama
 masashi
 1
 unko
+<<<<<<< HEAD
+=======
+unchi
+>>>>>>> parent of 4de5477... kusowotsuika
